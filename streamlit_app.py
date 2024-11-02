@@ -14,7 +14,7 @@ IMG_SIZE = (155, 155)
 
 # Función para descargar y descomprimir el modelo
 def download_and_extract_model():
-    model_url = 'https://www.dropbox.com/scl/fi/21ceae8ulyvfeinm3erdh/inception_v3_final_model.keras?rlkey=8ii6wm2ksivgnly9h1kf18kwz&st=u0ax3fh9&dl=0'
+    model_url = 'https://www.dropbox.com/scl/fi/1ze6340627igdnwj8y5fn/inception_v3_final_model.zip?rlkey=3jjnk2wr71ze8opp7y425sb7v&st=hab63yh8&dl=0'
     zip_path = 'inception_v3_final_model.zip'
     extract_folder = 'extracted_files'
 
